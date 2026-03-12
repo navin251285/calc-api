@@ -12,6 +12,7 @@ calc-api
 |
 |-- requirements.txt
 |-- Dockerfile
+|-- cloudbuild.yaml
 `-- README.md
 ```
 
